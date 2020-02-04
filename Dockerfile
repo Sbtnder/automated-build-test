@@ -1,2 +1,2 @@
 FROM dockersamples/static-site
-ENV AUTHOR="d.s" 
+ENV AUTHOR="Sbtnder" 
